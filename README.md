@@ -1,3 +1,5 @@
+My original glitch file is located here: https://glitch.com/~ambiguous-mustard
+
 # Challenge: Gatekeeper middleware
 
 This is a challenge in Thinkful's *Web Development Bootcamp*.
